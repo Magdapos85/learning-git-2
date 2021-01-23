@@ -1,0 +1,10 @@
+Autoprefixer CLI
+autoprefixer-cli -o main.prefixed.css main.css
+autoprefixer-cli -h
+HTML validate
+html-validate FILENAME..
+npm test
+npm run eslint
+npm run build
+npm run build:docs
+npm start
